@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pydantic
+langchain
+langchain-openai
+langchain-core
+langgraph
+openai
+tavily-python
+numpy
+cryptography
+asyncio
+aiohttp
